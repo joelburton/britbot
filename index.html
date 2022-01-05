@@ -1,0 +1,12 @@
+<html>
+  <body>
+    <h1>BritBot 3000</h1>
+    <button id="up">up</button>
+    <button id="down">down</button>
+    <script>
+      const ws = new WebSocket("ws://britbot.joelburton.net:8765")
+      document.getElementById("up").addEventListener("click", () => ws.send("U") );
+      document.getElementById("down").addEventListener("click", () => ws.send("D") );
+    </script>
+  </body>
+</html>
