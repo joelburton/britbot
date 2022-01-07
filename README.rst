@@ -2,7 +2,7 @@ BritBot 3000
 ============
 
 .. image:: britbot_bb.png
-   :width: 30em
+   :width: 45em
 
 A web-connected, websockets-driven robotic indicator for raising
 ones hands and getting attention during Zoom calls.
