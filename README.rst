@@ -21,5 +21,5 @@ Requires:
 Author: Joel Burton <joel@joelburton.com>
 
 .. image:: britbot_schem.png
-   :width: 45em
+   :width: 50em
 
