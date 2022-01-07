@@ -1,13 +1,16 @@
 BritBot 3000
 ============
 
+.. image:: britbot_bb.png
+   :width: 30em
+
 A web-connected, websockets-driven robotic indicator for raising
 ones hands and getting attention during Zoom calls.
 
 Requires:
 
 - CircuitPlayground Express or Bluefruit
-  (could be easily adapted an CircuitPython-capable microcontroller)
+  (could be easily adapted to any CircuitPython-capable microcontroller)
 - Server to run websocket echo server
 - Driver running on Internet-connected client computer connected via
   serial to the microcontroller.
