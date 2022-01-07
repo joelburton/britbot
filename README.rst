@@ -15,7 +15,7 @@ Requires:
 - Driver running on Internet-connected client computer connected via
   serial to the microcontroller.
 
-- `SG90 or similar servo <https://www.amazon.com/Sipytoph-Helicopter-Airplane-Walking-Control/dp/B09185SC1W/>`_
+- `SG90 or similar servo <http://www.ee.ic.ac.uk/pcheung/teaching/DE1_EE/stores/sg90_datasheet.pdf>`_
 - `14-segment alphanumeric display w/HT16K33 controller <https://www.adafruit.com/product/1911>`_
 
 Author: Joel Burton <joel@joelburton.com>
