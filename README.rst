@@ -15,8 +15,8 @@ Requires:
 - Driver running on Internet-connected client computer connected via
   serial to the microcontroller.
 
-- SG90 or similar servo
-- 14-segment alphanumeric display w/HT16K33 controller
+- `SG90 or similar servo <https://www.amazon.com/Sipytoph-Helicopter-Airplane-Walking-Control/dp/B09185SC1W/>`_
+- `14-segment alphanumeric display w/HT16K33 controller <https://www.adafruit.com/product/1911>`_
 
 Author: Joel Burton <joel@joelburton.com>
 
